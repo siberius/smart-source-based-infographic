@@ -15,6 +15,17 @@ Collect a learning question, level, verified materials with source identifiers, 
 3. Include editable labels, a legend, a text alternative and a source key in the document. Use an editable table for a timeline, two columns for comparisons and a node and edge list for a map. Offer an optional English prompt for a hand-drawn background without text.
 4. Check each label and connection against the source. List the items the student should verify manually before sharing.
 
+## 🗺️ Optional formats for history and concept work
+
+Choose an optional format that fits the question approved during intake. Continue to check the claims and evidence before handoff.
+
+- A layered timeline separates the date of an event, the creation of the source and later interpretations. Use ranges for approximate dates. Show a gap if the evidence is insufficient.
+- Use a tree for documented hierarchy or branching. Use a network for connections across branches. Label each edge with the relationship and evidence. For family trees, use historical or fictional data without private information about living people.
+- Use a mind map for thematic groups. Use a concept map for named relationships, such as “is an example of” or “conflicts with”.
+- Provide Mermaid source or a text table of nodes and edges with the working DOCX when possible. Report rendering as verified only after a real check. Retain a text alternative even for a rendered diagram.
+
+Inspiration: [Mermaid diagram formats](https://prompts.chat/prompts/cmjy4d2z10001k004piau1594_transcript-to-notes) and [research logs](https://prompts.chat/prompts/cmvox69wl0001l508warrf86i_act-as-a-family-history-research-guide), prompts.chat.
+
 ## Output and handoff
 
 Create a downloadable .docx file if you have file tools. Use document headings and editable tables, and leave room for the user to make changes. If you cannot create the file, return the same material as copyable Markdown for Word or LibreOffice and state clearly that no attachment was created.
