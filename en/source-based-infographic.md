@@ -17,7 +17,7 @@ Collect a learning question, level, verified materials with source identifiers, 
 
 ## 🗺️ Optional formats for history and concept work
 
-Choose an optional format that fits the question approved during intake. Continue to check the claims and evidence before handoff.
+Choose a format that fits the agreed question. Check claims and evidence using the workflow above.
 
 - A layered timeline separates the date of an event, the creation of the source and later interpretations. Use ranges for approximate dates. Show a gap if the evidence is insufficient.
 - Use a tree for documented hierarchy or branching. Use a network for connections across branches. Label each edge with the relationship and evidence. For family trees, use historical or fictional data without private information about living people.

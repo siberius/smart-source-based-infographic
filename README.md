@@ -10,7 +10,7 @@ The student turns documented details and relationships into an editable timeline
 2. Provide a learning question, level, verified materials with source identifiers, format and intended use.
 3. Review the draft and edit the document. Downloadable DOCX depends on the chat's file tools. The fallback is Markdown for a word processor.
 
-Added a layered timeline, a relationship tree and optional editable diagram source.
+The timeline separates events from later accounts. In a tree, each connection retains its source.
 
 ## Example
 
@@ -18,7 +18,7 @@ Build a timeline of a changing town from a chronicle and local reporting. Link d
 
 ## Status and privacy
 
-Version 1.1.0. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
+Version 1.1.1. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
 
 ## Origin and license
 

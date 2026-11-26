@@ -17,7 +17,7 @@ Zjisti výukovou otázku, ročník, ověřené podklady s označením zdrojů, f
 
 ## 🗺️ Volitelné formáty pro dějepis a práci s pojmy
 
-Volitelný formát zvol podle otázky schválené ve vstupní diagnostice. Stávající kontrola údajů a dokladů zůstává součástí výstupu.
+Formát vyber podle schválené otázky. Údaje a doklady zkontroluj podle pracovního postupu.
 
 - Vícevrstvá časová osa odděluje datum události, vznik pramene a pozdější interpretaci. Přibližné datum znač intervalem. Pokud pramen neumožňuje přesnější zařazení, vyznač mezeru.
 - Strom použij pro doloženou hierarchii či větvení. Pokud se větve opět spojují, zvol síť. U každé spojnice označ druh vztahu a podklad. U rodokmenu pracuj s historickými či smyšlenými údaji bez soukromých údajů žijících osob.

@@ -10,7 +10,7 @@
 2. Doplňte výukovou otázku, ročník, ověřené podklady s označením zdrojů, formát a způsob použití.
 3. Projděte návrh a upravte dokument. Stažitelný DOCX závisí na nástrojích chatu. Náhradní výstup je Markdown pro textový editor.
 
-Přibyla vícevrstvá časová osa, strom vztahů a volitelný upravitelný zdroj diagramu.
+Na ose můžete odlišit, kdy se událost stala a kdy o ní někdo napsal. U stromu zůstává u každé spojnice doklad.
 
 ## Příklad
 
@@ -18,7 +18,7 @@ Z kroniky a dobového tisku vznikne časová osa proměn města. Doložená data
 
 ## Stav a soukromí
 
-Verze 1.1.0. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
+Verze 1.1.1. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
 
 ## Původ a licence
 
