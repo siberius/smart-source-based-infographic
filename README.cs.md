@@ -18,7 +18,7 @@ Z kroniky a dobového tisku vznikne časová osa proměn města. Doložená data
 
 ## Stav a soukromí
 
-Verze 1.1.1. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
+Verze 1.2.0. Chování v konkrétních modelech ani tvorba příloh zatím nemají doložený test. Repozitář obsahuje textový postup. Podklady zpracovává poskytovatel zvoleného chatu. Používejte veřejné nebo anonymizované materiály.
 
 ## Původ a licence
 

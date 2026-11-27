@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.2.0 (2026-11-27)
+
+- Added structural emojis, one-glance label readability limit and optional no-frame background guidance.
+- Added pre-handoff guardrails checklist, start/stop-guard and explicit educational modification credit.
+
 ## 1.1.1 (2026-11-26)
 
 - Clarified the optional mode instructions without changing the workflow.

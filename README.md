@@ -18,7 +18,7 @@ Build a timeline of a changing town from a chronicle and local reporting. Link d
 
 ## Status and privacy
 
-Version 1.1.1. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
+Version 1.2.0. Model behaviour and file generation have no documented test yet. The repository contains a written workflow. The chosen chat provider handles your materials. Use public or anonymised sources.
 
 ## Origin and license
 
